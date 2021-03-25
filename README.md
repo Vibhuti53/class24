@@ -1,2 +1,2 @@
-# class24
-created all the objects
+# p5.play-boilerplate
+Boiler plate for p5.play
